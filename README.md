@@ -51,7 +51,7 @@ Vous pouvez télécharger des modèles gratuits sur ces plateformes :
 - **Astuce** : Orientez les surfaces plates vers le bas pour une meilleure adhérence
 
 #### Mise à l'Échelle
-- Sélectionnez l'outil **Échelle**
+- Sélectionnez l'outil **Redimensionner**
 - Modifiez la taille en pourcentage ou en dimensions exactes (mm)
 - Verrouillez les proportions pour conserver les dimensions d'origine
 
