@@ -42,7 +42,7 @@ Vous pouvez télécharger des modèles gratuits sur ces plateformes :
 ### Manipulations de Base
 
 #### Déplacer le Modèle
-- Sélectionnez l'outil **Déplacer** dans la barre d'outils gauche
+- Sélectionnez l'outil **Déplacer** dans la barre d'outils en hauteur
 - Cliquez et glissez le modèle pour le repositionner sur le plateau
 
 #### Rotation
@@ -56,8 +56,8 @@ Vous pouvez télécharger des modèles gratuits sur ces plateformes :
 - Verrouillez les proportions pour conserver les dimensions d'origine
 
 #### Duplication
-- Clic droit sur le modèle → **Ajouter une instance**
-- Ou utilisez le raccourci **Ctrl+D**
+- Clic droit sur le modèle → **Cloner**
+- Ou utilisez le raccourci **Ctrl+K**
 
 ### Optimiser l'Orientation
 Pour de meilleurs résultats d'impression :
@@ -70,22 +70,18 @@ Pour de meilleurs résultats d'impression :
 ## 3. Réglages d'Impression
 
 ### Profil d'Impression
-1. Dans le panneau de droite, sous **Réglages d'impression**, sélectionnez un profil prédéfini :
+1. Dans le panneau de gauche, sous **Réglages d'impression**, sélectionnez le profil prédéfini :
    - **0.20mm Standard** (recommandé pour le prototypage rapide)
-   - **0.16mm Fine** (meilleure qualité, temps plus long)
-   - **0.28mm Draft** (rapide, qualité moindre)
-
-Pour du prototypage, utilisez le profil **0.20mm Standard**.
 
 ### Supports
-1. Dans la section **Support**, activez **Générer les supports automatiquement**
+1. Dans la section **Support**, activez **Activer les supports**
 2. Bambu Studio placera automatiquement les supports nécessaires
 3. Vous pouvez prévisualiser les supports en cliquant sur l'onglet **Aperçu**
 
 ### Autres Réglages
 Les réglages par défaut sont optimisés pour votre imprimante et conviennent parfaitement au prototypage.
 
-**Pour tout problème ou besoin de réglages avancés, veuillez notifier M. PICARD.**
+**Pour tout problème ou besoin de réglages avancés, veuillez notifier M. PICARD ou alors quelqu'un du club BEST.**
 
 ---
 
@@ -97,7 +93,7 @@ Les réglages par défaut sont optimisés pour votre imprimante et conviennent p
 3. Une fois terminé, vous pouvez :
    - Consulter le **temps d'impression estimé**
    - Consulter la **quantité de filament nécessaire**
-   - Visualiser l'**aperçu couche par couche** avec le curseur en bas
+   - Visualiser l'**aperçu couche par couche** avec le curseur à droite
 
 ### Exporter le Fichier
 1. Cliquez sur **Exporter le plateau en G-code**
