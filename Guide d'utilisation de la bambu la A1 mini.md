@@ -35,7 +35,7 @@ Les ports AMS servent à connecter des systèmes multi-couleur (AMS, AMS lite et
 
 Quand tu changes le filament, va dans cette interface pour changer le type de matériaux et sa couleur. C'est aussi ici que tu dois aller pour charger et décharger une bobine.
 
-![Une image contenant intérieur, Électroménager, chargeur Le contenu généré par l'IA peut être incorrect.](assets/guide/media/image3.jpeg){width="1.5145297462817149in" height="1.6110258092738408in"}
+![Une image contenant intérieur, Électroménager, chargeur Le contenu généré par l'IA peut être incorrect.](assets/guide/image3.jpeg){width="1.5145297462817149in" height="1.6110258092738408in"}
 
 Le bouton d'alimentation se situe à l'arrière de l'imprimante.
 ATTENTION IL NE FAUT PAS ÉTEINDRE L'IMPRIMANTE SI ELLE EST AU-DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FAIRE LEUR TRAVAIL.
