@@ -16,8 +16,8 @@ Température de la buse
 
 Température du plateau
 
-![Une image contenant Appareils électroniques, câble, intérieur, Appareil électronique Le contenu généré par l'IA peut être incorrect.](assets/guide/image1.jpeg){width="1.9883727034120735in" height="1.073287401574803in"}
-![Une image contenant texte, Appareil électronique, Appareils électroniques, gadget Le contenu généré par l'IA peut être incorrect.](assets/guide/image2.jpeg){width="2.883721566054243in" height="2.0458333333333334in"}
+![Une image contenant Appareils électroniques, câble, intérieur, Appareil électronique Le contenu généré par l'IA peut être incorrect.](assets/guide/image1.jpeg){width="400"}
+![Une image contenant texte, Appareil électronique, Appareils électroniques, gadget Le contenu généré par l'IA peut être incorrect.](assets/guide/image2.jpeg){width="400"}
 
 Les réglages ça tu n'as pas besoin d'y aller il ne faut pas modifier les paramètres.
 L'assistant est là pour aider en cas de problème mineur.
@@ -35,7 +35,7 @@ Les ports AMS servent à connecter des systèmes multi-couleur (AMS, AMS lite et
 
 Quand tu changes le filament, va dans cette interface pour changer le type de matériaux et sa couleur. C'est aussi ici que tu dois aller pour charger et décharger une bobine.
 
-![Une image contenant intérieur, Électroménager, chargeur Le contenu généré par l'IA peut être incorrect.](assets/guide/image3.jpeg){width="1.5145297462817149in" height="1.6110258092738408in"}
+![Une image contenant intérieur, Électroménager, chargeur Le contenu généré par l'IA peut être incorrect.](assets/guide/image3.jpeg){width="250"}
 
 Le bouton d'alimentation se situe à l'arrière de l'imprimante.
 ATTENTION IL NE FAUT PAS ÉTEINDRE L'IMPRIMANTE SI ELLE EST AU-DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FAIRE LEUR TRAVAIL.
