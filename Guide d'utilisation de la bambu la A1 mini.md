@@ -1,15 +1,15 @@
-**Guide d\'utilisation - Bambu Lab A1 Mini**
+**Guide d'utilisation - Bambu Lab A1 Mini**
 
 **⚠️ RÈGLES DE SÉCURITÉ**
 
 **TOUJOURS respecter ces consignes :**
--   Ne jamais toucher la buse ou le plateau chauffant si l'écran annonce qu'ils sont au-dessus de 35°C après il y a des risques de brulure.
--   Attendre que l\'imprimante soit complètement refroidie avant de retirer une pièce.
--   Ne jamais laisser l\'imprimante sans surveillance pendant les 10 premières minutes d'impression.
+-   Ne jamais toucher la buse ou le plateau chauffant si l'écran annonce qu'ils sont au-dessus de 35°C après il y a des risques de brûlure.
+-   Attendre que l'imprimante soit complètement refroidie avant de retirer une pièce.
+-   Ne jamais laisser l'imprimante sans surveillance pendant les 10 premières minutes d'impression.
 -   Prévenir un professeur en cas de problème.
--   Ne pas modifier les réglages de l\'imprimante sans autorisation.
+-   Ne pas modifier les réglages de l'imprimante sans autorisation.
 
-**📱 INTERFACE DE L\'IMPRIMANTE**
+**📱 INTERFACE DE L'IMPRIMANTE**
 **Écran tactile et boutons**
 
 Température de la buse
@@ -20,63 +20,35 @@ Température du plateau
 ![Une image contenant texte, Appareil électronique, Appareils électroniques, gadget Le contenu généré par l'IA peut être incorrect.](assets/guide/image2.jpeg){width="2.883721566054243in" height="2.0458333333333334in"}
 
 Les réglages ça tu n'as pas besoin d'y aller il ne faut pas modifier les paramètres.
-L'assistant est la pour aider en cas de problème mineure
-C'est ici que se trouve les ficher G-code pour lancer une impression
+L'assistant est là pour aider en cas de problème mineur.
+C'est ici que se trouvent les fichiers G-code pour lancer une impression.
 
 États du Wi-Fi
 
-**Guide d\'utilisation - Bambu Lab A1 Mini**
-
-**⚠️ RÈGLES DE SÉCURITÉ**
-
-**TOUJOURS respecter ces consignes :**
--   Ne jamais toucher la buse ou le plateau chauffant si l'écran annonce qu'ils sont au-dessus de 35°C après il y a des risques de brulure.
--   Attendre que l\'imprimante soit complètement refroidie avant de retirer une pièce.
--   Ne jamais laisser l\'imprimante sans surveillance pendant les 10 premières minutes d'impression.
--   Prévenir un professeur en cas de problème.
--   Ne pas modifier les réglages de l\'imprimante sans autorisation.
-
-**📱 INTERFACE DE L\'IMPRIMANTE**
-**Écran tactile et boutons**
-
-Température de la buse
-
-Température du plateau
-
-![Une image contenant Appareils électroniques, câble, intérieur, Appareil électronique Le contenu généré par l'IA peut être incorrect.](assets/guide/image1.jpeg){width="1.9883727034120735in" height="1.073287401574803in"}![Une image contenant texte, Appareil électronique, Appareils électroniques, gadget Le contenu généré par l'IA peut être incorrect.](assets/guide/image2.jpeg){width="2.883721566054243in" height="2.0458333333333334in"}
-
-Les réglages ça tu n'as pas besoin d'y aller il ne faut pas modifier les paramètres.
-
-L'assistant est la pour aider en cas de problème mineure
-
-C'est ici que se trouve les ficher G-code pour lancer une impression
-
-États du Wi-Fi
-
-Sur le coté droit se trouve le port pour la carte micro SD prend la pour mettre tes fichier G-code que tu as slicer.
+Sur le côté droit se trouve le port pour la carte micro SD. Prends-la pour mettre tes fichiers G-code que tu as slicé.
 
 ATTENTION SUR LES IMPRIMANTE 3D LA CARTE SE MET A L'ENVERS.
 
-Cette interface sers à déplacer la tête d'impression de choisir la vitesse et de contrôler l'extrudeur. ATTENTION ELLE N'A PAS ÉTÉ FAITE POUR JOUER
+Cette interface sert à déplacer la tête d'impression, à choisir la vitesse et à contrôler l'extrudeur. ATTENTION ELLE N'A PAS ÉTÉ FAITE POUR JOUER.
 
-Les ports AMS ils servent à connecter des système multi-couleur (AMS, AMS lite et AMS 2 Pro).
+Les ports AMS servent à connecter des systèmes multi-couleur (AMS, AMS lite et AMS 2 Pro).
 
-Quand tu change le filament va dans cette interface pour changer le type se matériaux et sa couleur, c'est aussi ici que tu dois aller pour charger et décharger une bobine.
+Quand tu changes le filament, va dans cette interface pour changer le type de matériaux et sa couleur. C'est aussi ici que tu dois aller pour charger et décharger une bobine.
 
 ![Une image contenant intérieur, Électroménager, chargeur Le contenu généré par l'IA peut être incorrect.](assets/guide/media/image3.jpeg){width="1.5145297462817149in" height="1.6110258092738408in"}
 
-Le bouton d'alimentation, il se situe à l'arrière de l'imprimante.
-ATTENTION IL NE FAUT PAS ETEINDRE L'IMPRIMANTE SI ELLE EST AU DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FARE LEUR TRAVAIL
+Le bouton d'alimentation se situe à l'arrière de l'imprimante.
+ATTENTION IL NE FAUT PAS ÉTEINDRE L'IMPRIMANTE SI ELLE EST AU-DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FAIRE LEUR TRAVAIL.
 
 **📋 AVANT DE COMMENCER**
 **Vérifications rapides**
 
 Avant chaque utilisation, vérifier que :
--   L\'imprimante est branchée et allumée
+-   L'imprimante est branchée et allumée
 -   Le plateau est bien positionné et propre (pas de résidus de plastique)
 -   Il y a du filament chargé dans la machine
--   Personne d\'autre n\'utilise l\'imprimante
--   Je suis sur du matériaux que j'utilise
+-   Personne d'autre n'utilise l'imprimante
+-   Je suis sûr du matériau que j'utilise
 
 **🎯 ÉTAPE 1 : Charger le filament (si nécessaire)**
 
@@ -156,14 +128,14 @@ lien**
 2.  **Décollez la pièce** :
     -   Pliez légèrement le plateau flexible
     -   La pièce devrait se décoller facilement
-    -   Si elle résiste, utilisez une spatule en plastique (jamais de métal vous risquer d'abimer le plateau et la pièce !)
+    -   Si elle résiste, utilisez une spatule en plastique (jamais de métal, vous risquez d'abîmer le plateau et la pièce !)
 
 3.  **Remettez le plateau** en place sur l\'imprimante
 **Nettoyer les supports**
 
 Si votre pièce a des supports :
 -   Retirez-les délicatement avec vos mains ou une pince
--   Jetez les supports dans le bac prévus pour.
+-   Jetez les supports dans le bac prévu.
 
 **🧹 APRÈS L\'IMPRESSION : Rangement**
 **Checklist de fin :**
@@ -176,26 +148,26 @@ Si votre pièce a des supports :
 
 **⚠️ PROBLÈMES FRÉQUENTS**
 
-**L\'impression ne colle pas au plateau**
+**L'impression ne colle pas au plateau**
 **Solution :** Appelez le professeur
 
--   Le plateau doit peut-être être nettoyé la poussière est le principale problème.
+-   Le plateau doit peut-être être nettoyé. La poussière est le principal problème.
 
 **Le filament ne sort pas**
 **Solution :** Vérifiez que :
 
--   La bobine n\'est pas vide
--   Le filament n\'est pas emmêlé ou cassé
+-   La bobine n'est pas vide
+-   Le filament n'est pas emmêlé ou cassé
 -   Appelez le professeur si le problème persiste
 
-**L\'impression est ratée**
+**L'impression est ratée**
 **Solution :**
 
--   Notez ce qui n\'a pas marché
+-   Notez ce qui n'a pas marché
 -   Montrez au professeur
 -   Ne lancez pas une nouvelle impression sans avoir compris le problème
 
-**Message d\'erreur sur l\'écran**
+**Message d'erreur sur l'écran**
 **Solution :** Prenez une photo et appelez le professeur
 
 **💡 CONSEILS POUR RÉUSSIR**
