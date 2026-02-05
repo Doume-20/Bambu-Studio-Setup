@@ -1,6 +1,6 @@
 **Guide d'utilisation - Bambu Lab A1 Mini**
 
-**⚠️ RÈGLES DE SÉCURITÉ**
+**RÈGLES DE SÉCURITÉ**
 
 **TOUJOURS respecter ces consignes :**
 -   Ne jamais toucher la buse ou le plateau chauffant si l'écran annonce qu'ils sont au-dessus de 35°C après il y a des risques de brûlure.
@@ -9,7 +9,7 @@
 -   Prévenir un professeur en cas de problème.
 -   Ne pas modifier les réglages de l'imprimante sans autorisation.
 
-**📱 INTERFACE DE L'IMPRIMANTE**
+**INTERFACE DE L'IMPRIMANTE**
 **Écran tactile et boutons**
 
 Température de la buse
@@ -40,7 +40,7 @@ Quand tu changes le filament, va dans cette interface pour changer le type de ma
 Le bouton d'alimentation se situe à l'arrière de l'imprimante.
 ATTENTION IL NE FAUT PAS ÉTEINDRE L'IMPRIMANTE SI ELLE EST AU-DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FAIRE LEUR TRAVAIL.
 
-**📋 AVANT DE COMMENCER**
+**AVANT DE COMMENCER**
 **Vérifications rapides**
 
 Avant chaque utilisation, vérifier que :
@@ -50,7 +50,7 @@ Avant chaque utilisation, vérifier que :
 -   Personne d'autre n'utilise l'imprimante
 -   Je suis sûr du matériau que j'utilise
 
-**🎯 ÉTAPE 1 : Charger le filament (si nécessaire)**
+**ÉTAPE 1 : Charger le filament (si nécessaire)**
 
 **Quand charger du filament ?**
 -   Si la bobine est vide
@@ -66,9 +66,9 @@ Avant chaque utilisation, vérifier que :
 6.  **Vérifiez** que du plastique sort de la buse (petit trou en bas)
 7.  **Confirmez** sur l\'écran quand c\'est bon
 
-⏱️ **Temps estimé :** 3-5 minutes
+**Temps estimé :** 3-5 minutes
 
-**🖥️ ÉTAPE 2 : Préparer votre fichier 3D**
+**ÉTAPE 2 : Préparer votre fichier 3D**
 
 **Sur l\'ordinateur avec Bambu Studio**
 
@@ -76,7 +76,7 @@ Avant chaque utilisation, vérifier que :
 lien**
 **<https://github.com/Doume-20/bambu-studio-setup>**
 
-**🚀 ÉTAPE 3 : Lancer l\'impression**
+**ÉTAPE 3 : Lancer l\'impression**
 
 **Méthode 1 : Par Wi-Fi**
 1.  Dans Bambu Studio, cliquez sur le bouton **\"Imprimer\"** (en haut à droite)
@@ -91,18 +91,18 @@ lien**
 4.  Sur l\'écran tactile, allez dans **\"Fichiers\"**
 5.  Sélectionnez votre fichier et appuyez sur **\"Imprimer\"**
 
-**👀 ÉTAPE 4 : Surveiller l\'impression**
+**ÉTAPE 4 : Surveiller l\'impression**
 
 **Les 10 premières minutes sont CRITIQUES**
 **Restez devant l\'imprimante et observez :**
 
-✅ **Ce qui est NORMAL :**
+**Ce qui est NORMAL :**
 -   L\'imprimante fait du bruit (c\'est normal)
 -   La buse se déplace rapidement
 -   Le plastique sort en lignes régulières
 -   La première couche colle bien au plateau
 
-❌ **Ce qui est ANORMAL (prévenez le professeur) :**
+**Ce qui est ANORMAL (prévenez le professeur) :**
 -   Le plastique ne colle pas et fait des \"spaghettis\"
 -   La buse frotte contre l\'impression
 -   Rien ne sort de la buse
@@ -114,10 +114,10 @@ lien**
 -   Revenez de temps en temps vérifier que tout se passe bien
 -   Notez l\'heure de fin prévue
 
-**✅ ÉTAPE 5 : Récupérer votre impression**
+**ÉTAPE 5 : Récupérer votre impression**
 **Attendre le refroidissement**
 
-⚠️ **IMPORTANT : NE JAMAIS toucher le plateau tant qu\'il est chaud !**
+**IMPORTANT : NE JAMAIS toucher le plateau tant qu\'il est chaud !**
 
 1.  Attendez que l\'imprimante ait fini et refroidi (température \<40°C)
 2.  Le plateau refroidit en 5-10 minutes environ
@@ -137,7 +137,7 @@ Si votre pièce a des supports :
 -   Retirez-les délicatement avec vos mains ou une pince
 -   Jetez les supports dans le bac prévu.
 
-**🧹 APRÈS L\'IMPRESSION : Rangement**
+**APRÈS L\'IMPRESSION : Rangement**
 **Checklist de fin :**
 
 -   \[ \] Pièce récupérée
@@ -146,7 +146,7 @@ Si votre pièce a des supports :
 -   \[ \] Zone de travail rangée
 -   \[ \] Fichier enregistré/supprimé de l\'ordinateur si demandé
 
-**⚠️ PROBLÈMES FRÉQUENTS**
+**PROBLÈMES FRÉQUENTS**
 
 **L'impression ne colle pas au plateau**
 **Solution :** Appelez le professeur
@@ -170,7 +170,7 @@ Si votre pièce a des supports :
 **Message d'erreur sur l'écran**
 **Solution :** Prenez une photo et appelez le professeur
 
-**💡 CONSEILS POUR RÉUSSIR**
+**CONSEILS POUR RÉUSSIR**
 
 1.  **Anticipez le temps** : Une impression peut prendre plusieurs heures
 2.  **Commencez petit** : Testez avec des objets simples avant les projets complexes
@@ -178,7 +178,7 @@ Si votre pièce a des supports :
 4.  **Surveillez le début** : 90% des échecs arrivent dans les premières minutes
 5.  **Soyez patient** : L\'impression 3D est lente mais précise
 
-**📞 EN CAS DE PROBLÈME**
+**EN CAS DE PROBLÈME**
 
 1.  **Ne paniquez pas**
 2.  **Ne touchez pas l\'imprimante si vous ne savez pas quoi faire**
