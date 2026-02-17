@@ -1,129 +1,164 @@
-# Quick Start - Bambu Studio
+**Guide d'utilisation - Bambu Lab A1 Mini**
 
-Guide de démarrage rapide pour l'utilisation de Bambu Studio avec l'imprimante A1 Mini.
+**RÈGLES DE SÉCURITÉ**
 
----
+**TOUJOURS respecter ces consignes :**
+-   Ne jamais toucher la buse ou le plateau chauffant si l'écran annonce qu'ils sont au-dessus de 35°C après il y a des risques de brûlure.
+-   Attendre que l'imprimante soit complètement refroidie avant de retirer une pièce.
+-   Ne jamais laisser l'imprimante sans surveillance pendant les 10 premières minutes d'impression.
+-   Prévenir un professeur en cas de problème.
+-   Ne pas modifier les réglages de l'imprimante sans autorisation.
 
-## 1. Installation et Premier Lancement
+**INTERFACE DE L'IMPRIMANTE**
+**Écran tactile et boutons**
 
-### Téléchargement
-1. Rendez-vous sur le site officiel de Bambu Lab : [https://bambulab.com/en/download/studio](https://bambulab.com/en/download/studio)
-2. Téléchargez la version **Windows**
-3. Installez le logiciel en suivant les instructions (double-cliquez sur le fichier .exe téléchargé)
+<img src="assets/guide/image_1.png" alt="Description de l'interface" width="400">
 
-### Configuration Initiale
-Au premier lancement de Bambu Studio :
+**AVANT DE COMMENCER**
+**Vérifications rapides**
 
-1. **Langue** : Sélectionnez **Français** dans le menu déroulant
-2. **Modèle d'imprimante** : Choisissez **Bambu Lab A1 mini**
-3. **Filaments** : Sélectionnez les profils suivants :
-   - **PLA Bambu Lab**
-   - **PETG Bambu Lab**
-4. **Unités** : Sélectionnez **mm/g** (millimètres/grammes)
-5. **Thème** (optionnel) : Si vous préférez un thème sombre, allez dans les paramètres et activez le **Mode Sombre**
+Avant chaque utilisation, vérifier que :
+-   L'imprimante est branchée et allumée
+-   Le plateau est bien positionné et propre (pas de résidus de plastique)
+-   Il y a du filament chargé dans la machine
+-   Personne d'autre n'utilise l'imprimante
+-   Je suis sûr du matériau que j'utilise
 
-Cliquez sur **Terminer** pour finaliser la configuration.
+**ÉTAPE 1 : Charger le filament (si nécessaire)**
 
----
+**Quand charger du filament ?**
+-   Si la bobine est vide
+-   Si vous devez changer de couleur/matériaux
+-   Si le professeur vous le demande
 
-## 2. Import et Préparation du Modèle 3D
+**Comment faire ?**
+1.  **Sur l\'écran tactile**, appuyez sur l\'icône **\"Charger filament\"**
+2.  **Placez la bobine** sur le support en haut de l\'imprimante
+3.  **Coupez le bout du filament** en biais à 45° (comme un crayon taillé)
+4.  **Insérez le filament** dans le tube transparent jusqu\'à ce qu\'il rentre dans la machine
+5.  **Attendez** que l\'imprimante chauffe et tire le filament automatiquement
+6.  **Vérifiez** que du plastique sort de la buse (petit trou en bas)
+7.  **Confirmez** sur l\'écran quand c\'est bon
 
-### Où Trouver des Modèles 3D ?
-Vous pouvez télécharger des modèles gratuits sur ces plateformes :
-- **MakerWorld** : [https://makerworld.com](https://makerworld.com) (plateforme officielle Bambu Lab)
-- **Printables** : [https://www.printables.com](https://www.printables.com)
-- **Thingiverse** : [https://www.thingiverse.com](https://www.thingiverse.com)
+**Temps estimé :** 3-5 minutes
 
-### Importer un Fichier STL
-1. Cliquez sur **Fichier** → **Importer** → **Importer STL/OBJ/AMF/3MF**
-2. Sélectionnez votre fichier (format .STL, .OBJ, .3MF, etc.)
-3. Le modèle apparaît sur le plateau virtuel
+**ÉTAPE 2 : Préparer votre fichier 3D**
 
-### Manipulations de Base
+**Sur l\'ordinateur avec Bambu Studio**
 
-#### Déplacer le Modèle
-- Sélectionnez l'outil **Déplacer** dans la barre d'outils en hauteur
-- Cliquez et glissez le modèle pour le repositionner sur le plateau
+**Pour cette étape je te laisse suivre le protocole sur Github avec ce
+lien**
+**<https://github.com/Doume-20/bambu-studio-setup>**
 
-#### Rotation
-- Sélectionnez l'outil **Rotation**
-- Utilisez les cercles de rotation pour orienter le modèle selon vos besoins
-- **Astuce** : Orientez les surfaces plates vers le bas pour une meilleure adhérence
+**ÉTAPE 3 : Lancer l\'impression**
 
-#### Mise à l'Échelle
-- Sélectionnez l'outil **Redimensionner**
-- Modifiez la taille en pourcentage ou en dimensions exactes (mm)
-- Verrouillez les proportions pour conserver les dimensions d'origine
+**Méthode 1 : Par Wi-Fi**
+1.  Dans Bambu Studio, cliquez sur le bouton **\"Imprimer\"** (en haut à droite)
+2.  Sélectionnez l\'imprimante A1 Mini de la salle 1, 2 ou 3
+3.  Cliquez sur **\"Envoyer\"**
+4.  L\'impression démarre automatiquement après préchauffage
 
-#### Duplication
-- Clic droit sur le modèle → **Cloner**
-- Ou utilisez le raccourci **Ctrl+K**
+**Méthode 2 : Par carte SD (Conseillé)**
+1.  Enregistrez le fichier sur la carte microSD
+2.  Retirez la carte de l\'ordinateur
+3.  Insérez-la dans l\'imprimante (elle se met à l'envers dans l'imprimante)
+4.  Sur l\'écran tactile, allez dans **\"Fichiers\"**
+5.  Sélectionnez votre fichier et appuyez sur **\"Imprimer\"**
 
-### Optimiser l'Orientation
-Pour de meilleurs résultats d'impression :
-- Placez les surfaces plates au contact du plateau
-- Minimisez les porte-à-faux (surfaces inclinées à plus de 45°) pour réduire le besoin de supports
-- Évitez les orientations qui nécessitent beaucoup de supports sauf si nécessaire
+**ÉTAPE 4 : Surveiller l\'impression**
 
----
+**Les 10 premières minutes sont CRITIQUES**
+**Restez devant l\'imprimante et observez :**
 
-## 3. Réglages d'Impression
+**Ce qui est NORMAL :**
+-   L\'imprimante fait du bruit (c\'est normal)
+-   La buse se déplace rapidement
+-   Le plastique sort en lignes régulières
+-   La première couche colle bien au plateau
 
-### Profil d'Impression
-1. Dans le panneau de gauche, sous **Réglages d'impression**, sélectionnez le profil prédéfini :
-   - **0.20mm Standard** (recommandé pour le prototypage rapide)
+**Ce qui est ANORMAL (prévenez le professeur) :**
+-   Le plastique ne colle pas et fait des \"spaghettis\"
+-   La buse frotte contre l\'impression
+-   Rien ne sort de la buse
+-   L\'imprimante fait un bruit bizarre ou s\'arrête
+-   Le filament est emmêlé
 
-### Supports
-1. Dans la section **Support**, activez **Activer les supports**
-2. Bambu Studio placera automatiquement les supports nécessaires
-3. Vous pouvez prévisualiser les supports en cliquant sur l'onglet **Aperçu**
+**Pendant l\'impression**
+-   Vous pouvez partir après les 10 premières minutes si tout va bien
+-   Revenez de temps en temps vérifier que tout se passe bien
+-   Notez l\'heure de fin prévue
 
-### Autres Réglages
-Les réglages par défaut sont optimisés pour votre imprimante et conviennent parfaitement au prototypage.
+**ÉTAPE 5 : Récupérer votre impression**
+**Attendre le refroidissement**
 
-**Pour tout problème ou besoin de réglages avancés, veuillez notifier M. PICARD ou quelqu'un du club BEST.**
+**IMPORTANT : NE JAMAIS toucher le plateau tant qu\'il est chaud !**
 
----
+1.  Attendez que l\'imprimante ait fini et refroidi (température \<40°C)
+2.  Le plateau refroidit en 5-10 minutes environ
 
-## 4. Export vers Carte Micro SD et Impression
+**Retirer la pièce**
+1.  **Retirez le plateau** (il se clippe facilement)
 
-### Slicer le Modèle
-1. Cliquez sur le bouton **Slicer** (en haut à droite)
-2. Bambu Studio calcule les couches d'impression
-3. Une fois terminé, vous pouvez :
-   - Consulter le **temps d'impression estimé**
-   - Consulter la **quantité de filament nécessaire**
-   - Visualiser l'**aperçu couche par couche** avec le curseur à droite
+2.  **Décollez la pièce** :
+    -   Pliez légèrement le plateau flexible
+    -   La pièce devrait se décoller facilement
+    -   Si elle résiste, utilisez une spatule en plastique (jamais de métal, vous risquez d'abîmer le plateau et la pièce !)
 
-### Exporter le Fichier
-1. Cliquez sur **Exporter le plateau en G-code**
-2. Choisissez l'emplacement de sauvegarde sur votre **carte micro SD** (insérée dans votre ordinateur)
-3. Donnez un nom au fichier et enregistrez
+3.  **Remettez le plateau** en place sur l\'imprimante
+**Nettoyer les supports**
 
-Le fichier sera au format **.gcode** ou **.3mf** selon vos paramètres.
+Si votre pièce a des supports :
+-   Retirez-les délicatement avec vos mains ou une pince
+-   Jetez les supports dans le bac prévu.
 
-### Retirer la Carte et Lancer l'Impression
-1. **Éjectez proprement** la carte micro SD de votre ordinateur
-2. **Insérez la carte** dans le lecteur de carte de l'imprimante A1 Mini
-3. Sur l'écran tactile de l'imprimante :
-   - Accédez au menu **Imprimer**
-   - Sélectionnez votre fichier dans la liste
-   - Appuyez sur **Démarrer l'impression**
+**APRÈS L\'IMPRESSION : Rangement**
+**Checklist de fin :**
 
-L'imprimante commencera automatiquement le chauffage du plateau et de la buse, puis lancera l'impression.
+-   \[ \] Pièce récupérée
+-   \[ \] Plateau remis en place et propre
+-   \[ \] Déchets jetés
+-   \[ \] Zone de travail rangée
+-   \[ \] Fichier enregistré/supprimé de l\'ordinateur si demandé
 
----
+**PROBLÈMES FRÉQUENTS**
 
-## Conseils Utiles
+**L'impression ne colle pas au plateau**
+**Solution :** Appelez le professeur
 
-- **Première couche** : Surveillez toujours la première couche pour vous assurer qu'elle adhère correctement au plateau
-- **Nettoyage du plateau** : Nettoyez régulièrement le plateau avec de l'alcool isopropylique pour une meilleure adhérence
-- **Rangement du filament** : Conservez vos bobines dans un endroit sec pour éviter l'absorption d'humidité
+-   Le plateau doit peut-être être nettoyé. La poussière est le principal problème.
 
----
+**Le filament ne sort pas**
+**Solution :** Vérifiez que :
 
-## Support
+-   La bobine n'est pas vide
+-   Le filament n'est pas emmêlé ou cassé
+-   Appelez le professeur si le problème persiste
 
-**Pour tout problème technique, besoin d'assistance ou question concernant les réglages avancés, veuillez notifier M. PICARD ou quelqu'un du club BEST.**
+**L'impression est ratée**
+**Solution :**
 
-Bonne impression ! 🎉
+-   Notez ce qui n'a pas marché
+-   Montrez au professeur
+-   Ne lancez pas une nouvelle impression sans avoir compris le problème
+
+**Message d'erreur sur l'écran**
+**Solution :** Prenez une photo et appelez le professeur
+
+**CONSEILS POUR RÉUSSIR**
+
+1.  **Anticipez le temps** : Une impression peut prendre plusieurs heures
+2.  **Commencez petit** : Testez avec des objets simples avant les projets complexes
+3.  **Orientez bien votre pièce** : La face la plus plate doit être sur le plateau
+4.  **Surveillez le début** : 90% des échecs arrivent dans les premières minutes
+5.  **Soyez patient** : L\'impression 3D est lente mais précise
+
+**EN CAS DE PROBLÈME**
+
+1.  **Ne paniquez pas**
+2.  **Ne touchez pas l\'imprimante si vous ne savez pas quoi faire**
+3.  **Appelez le professeur**
+4.  **Expliquez calmement ce qui s\'est passé**
+
+**Bon courage et amusez-vous bien ! 🎉**
+
+*L\'impression 3D demande de la patience et de la pratique. Ne vous découragez pas si vos premières impressions ne sont pas parfaites !*
