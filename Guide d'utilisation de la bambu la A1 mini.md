@@ -12,33 +12,7 @@
 **INTERFACE DE L'IMPRIMANTE**
 **Écran tactile et boutons**
 
-Température de la buse
-
-Température du plateau
-
-<img src="assets/guide/image1.jpeg" alt="Température de la buse et du plateau" width="400">
-<img src="assets/guide/image2.jpeg" alt="Interface de l'imprimante" width="400">
-
-Les réglages ça tu n'as pas besoin d'y aller il ne faut pas modifier les paramètres.
-L'assistant est là pour aider en cas de problème mineur.
-C'est ici que se trouvent les fichiers G-code pour lancer une impression.
-
-États du Wi-Fi
-
-Sur le côté droit se trouve le port pour la carte micro SD. Prends-la pour mettre tes fichiers G-code que tu as slicé.
-
-ATTENTION SUR LES IMPRIMANTE 3D LA CARTE SE MET A L'ENVERS.
-
-Cette interface sert à déplacer la tête d'impression, à choisir la vitesse et à contrôler l'extrudeur. ATTENTION ELLE N'A PAS ÉTÉ FAITE POUR JOUER.
-
-Les ports AMS servent à connecter des systèmes multi-couleur (AMS, AMS lite et AMS 2 Pro).
-
-Quand tu changes le filament, va dans cette interface pour changer le type de matériaux et sa couleur. C'est aussi ici que tu dois aller pour charger et décharger une bobine.
-
-<img src="assets/guide/image3.jpeg" alt="Ports AMS et bouton d'alimentation" width="250">
-
-Le bouton d'alimentation se situe à l'arrière de l'imprimante.
-ATTENTION IL NE FAUT PAS ÉTEINDRE L'IMPRIMANTE SI ELLE EST AU-DESSUS DE 50°C POUR LAISSER LES VENTILATEURS FAIRE LEUR TRAVAIL.
+<img src="assets/guide/image_1.png" alt="Description de l'interface" width="400">
 
 **AVANT DE COMMENCER**
 **Vérifications rapides**
