@@ -48,7 +48,7 @@ Avant chaque utilisation, vérifier que :
 
 **Pour cette étape je te laisse suivre le protocole sur Github avec ce
 lien**
-**<https://github.com/Doume-20/bambu-studio-setup>**
+**<https://github.com/Doume-20/Bambu-Studio-Setup/blob/main/README1.md>**
 
 **ÉTAPE 3 : Lancer l\'impression**
 
