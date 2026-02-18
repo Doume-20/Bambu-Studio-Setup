@@ -12,7 +12,7 @@
 **INTERFACE DE L'IMPRIMANTE**
 **Écran tactile et boutons**
 
-<img src="assets/guide/image_1.png" alt="Description de l'interface" width="400">
+<img src="assets/guide/image_1.png" alt="Description de l'interface" width="600">
 
 **AVANT DE COMMENCER**
 **Vérifications rapides**
