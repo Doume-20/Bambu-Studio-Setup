@@ -81,7 +81,7 @@ Pour de meilleurs résultats d'impression :
 ### Autres Réglages
 Les réglages par défaut sont optimisés pour votre imprimante et conviennent parfaitement au prototypage.
 
-**Pour tout problème ou besoin de réglages avancés, veuillez notifier M. PICARD ou quelqu'un du club BEST.**
+**Pour tout problème ou besoin de réglages avancés, veuillez notifier le responsable de la classe.**
 
 ---
 
@@ -124,6 +124,6 @@ L'imprimante commencera automatiquement le chauffage du plateau et de la buse, p
 
 ## Support
 
-**Pour tout problème technique, besoin d'assistance ou question concernant les réglages avancés, veuillez notifier M. PICARD ou quelqu'un du club BEST.**
+**Pour tout problème technique, besoin d'assistance ou question concernant les réglages avancés, veuillez notifier le responsable de la classe.**
 
 Bonne impression ! 🎉
